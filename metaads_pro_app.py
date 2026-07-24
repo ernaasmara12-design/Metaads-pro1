@@ -87,7 +87,7 @@ SPECIAL_AD_CATEGORY_MAP = {
     "Employment": Campaign.SpecialAdCategory.employment,
     "Housing": Campaign.SpecialAdCategory.housing,
     "Credit": Campaign.SpecialAdCategory.credit,
-    "Politik / Isu Sosial": Campaign.SpecialAdCategory.issues_election_politics,
+    ""POLITICAL_AND_ISSUE_ADS": Campaign.SpecialAdCategory.issues_election_politics,
 }
 
 OPTIMIZATION_GOAL_MAP = {
